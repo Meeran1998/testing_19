@@ -1,4 +1,4 @@
-let a = [1,"dfgh",true]
+let a = [1,"hello",true]
 
 console.log(a[1])
 let b = [1,[2,3,4],"hi,false]
