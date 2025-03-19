@@ -1,7 +1,7 @@
 let a = [1,"dfgh",true]
 
 console.log(a[1])
-let b = [1,[2,3,4],"hello",false]
+let b = [1,[2,3,4],"hello",true]
 
 console.log(b[1][1])
 
